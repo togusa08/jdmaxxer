@@ -1,0 +1,6 @@
+torch==2.3.1
+torchvision==0.18.1
+numpy<2
+opencv-python>=4.8
+pillow>=10.0
+ultralytics>=8.2
